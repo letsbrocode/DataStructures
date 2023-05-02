@@ -24,6 +24,7 @@ void main(){
 		printf("%d\t",a[k]);
 	printf("\n");
 	}
+	//Print Sorted Array
 	printf("Sorted Array:\t");
 	for(i=0;i<n;i++)
 		printf("%d\t",a[i]);
